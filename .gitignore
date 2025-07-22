@@ -5,7 +5,6 @@ __pycache__/
 
 
 #actual live files
-com.shuttlepro.listener.plist
 # C extensions
 *.so
 
@@ -90,3 +89,5 @@ dmypy.json
 
 # Trash
 .Trashes
+com.shuttlepro.listener.plist
+com.shuttlepro.listener.plist
